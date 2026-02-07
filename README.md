@@ -1,6 +1,6 @@
 # EE533_LAB4
 EE533_LAB4
-group memebers: I-Hsuan Lin, Michelle Lu, Chen-Yang Lin
+group memebers: I-Hsuan Lin, Michelle Lu, Chen-Yang Lee
 # NetFPGA Lab: Hardware Router & Mini-IDS Implementation
 
 This repository contains the source code, scripts, and experimental results for the NetFPGA 1G Reference Router and Mini-Intrusion Detection System (IDS) labs.
