@@ -30,12 +30,3 @@ This project explores the performance differences between **Software Routing (ke
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Hardware Router Setup
-To load the reference router bitfile and start the routing daemon:
-
-```bash
-# On NetFPGA Node (nf2)
-nf_download /usr/local/netfpga/bitfiles/reference_router.bit
-/usr/local/netfpga/lib/C/router/rkd -cpci &
